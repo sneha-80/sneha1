@@ -1,0 +1,12 @@
+html{
+    font-size: large;
+}
+
+
+table,tr,th,td,caption{
+    align-items: center;
+    border:1px solid #0c0b11;
+    font-fmily: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.9rem;
+}
